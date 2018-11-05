@@ -1,4 +1,4 @@
-# weibo
+# Weibo
 Scrapy框架的weibo爬虫
 使用Scrapy框架实现的weibo爬虫, 
 爬取规则是 -- 爬取某微博用户的微博列表, 粉丝列表, 关注列表,
